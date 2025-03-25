@@ -1,2 +1,1 @@
-Game Name: Ready, Steady, Bang!
-Version: 1
+Load "Assets/Scenes/SampleScene" to play "Ready, Steady, BANG!"
